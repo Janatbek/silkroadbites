@@ -2,7 +2,7 @@
   "name": "silk-road-bites",
   "version": "1.0.0",
   "description": "website for restaurant business",
-  "main": "index.js",
+  "main": "node index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
