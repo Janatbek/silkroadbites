@@ -1,0 +1,27 @@
+{
+  "name": "silk-road-bites",
+  "version": "1.0.0",
+  "description": "website for restaurant business",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janatbek/silkroadbites.git"
+  },
+  "author": "Janatbek Sharsheyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janatbek/silkroadbites/issues"
+  },
+  "homepage": "https://github.com/Janatbek/silkroadbites#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.16.3",
+    "npm": "6.14.5"
+  }
+}
